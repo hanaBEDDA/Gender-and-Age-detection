@@ -24,4 +24,4 @@ The UTKFace dataset is a valuable resource for various computer vision and machi
 
 7. **Ethical Considerations:** When using the dataset, be mindful of ethical considerations related to privacy and bias, especially when working with attributes like ethnicity and age.
 
-Including these details in your project will provide a comprehensive overview of the UTKFace dataset and demonstrate its suitability for various computer vision applications.
+
